@@ -3,6 +3,20 @@ FoodWebsite
 
 I have Created a Food Website and giving the name is FoodSite(HappyFace).
 Technologies: HTML, CSS, BootStrap.
+<br>
+<br>
+⚙️ Tech Stack
+<hr>
+• HTML
+• CSS
+• Bootstrap
+<br> 
+<br>
+🔋 Features
+<hr>
+
+
+
 In that website I have Showing the Few Sections like Home, Our Menu, About Us, Contact Us, Search Bar, and the Login Section logo also.
 
 
